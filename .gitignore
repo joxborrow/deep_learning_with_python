@@ -12,3 +12,5 @@ wheels/
 # Folders
 annotations/
 images/
+book_downloads/aclImdb/
+book_downloads/aclImdb_v1.tar.gz
